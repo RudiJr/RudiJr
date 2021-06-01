@@ -1,5 +1,4 @@
 # Hello, i'm Rudi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  	
-<hr>
 
 ## Detailed information<br>
 
