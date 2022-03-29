@@ -3,7 +3,7 @@
 ## Detailed information<br>
 
 >Name: Rudi Júnior <p></p> Age: 20 <p></p> 
-Currently an I.T academic <p></p> Front-End Developer.
+Completed I.T College in 2021 <p></p> Front-End Developer.
 
  ### Find me! 
  ><a href="https://www.linkedin.com/in/rudi-junior/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> <p></p>
