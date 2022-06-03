@@ -11,7 +11,7 @@ Completed I.T College in 2021 <p></p> Front-End Developer.
   <a href="https://www.instagram.com/rudi.juniior/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>  
  
 ### Skills : 
-> HTML <p></p> CSS <p></p> Bootstrap 
+> HTML <p></p> CSS <p></p> Bootstrap <p></p> Basic JavaScript
 
 ### Contact email:
  
