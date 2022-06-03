@@ -2,7 +2,7 @@
 
 ## Detailed information<br>
 
->Name: Rudi Júnior <p></p> Age: 20 <p></p> 
+>Name: Rudi Júnior <p></p> Age: 21 <p></p> 
 Completed I.T College in 2021 <p></p> Front-End Developer.
 
  ### Find me! 
