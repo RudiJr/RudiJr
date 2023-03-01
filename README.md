@@ -12,7 +12,13 @@
    <a href="https://www.instagram.com/rudi.juniior/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp; 
   <a href = "mailto:rudi.juniior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
- 
+
+## Detailed information
+
+* **Living in**: Guarulhos - SP, Brazil
+* **University**: Graduated on I.T Management 
+* **Student of front-end development, looking for the first job opportunity.** 
+
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
