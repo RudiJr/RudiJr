@@ -19,6 +19,7 @@
 * **Living in**: Guarulhos - SP, Brazil
 * **Graduated on I.T Management** 
 * **Student of front-end development, looking for the first job opportunity.** 
+* **Currently studying React.** 
 
 ###  Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,css,html,bootstrap&theme=dark)](https://skillicons.dev)
