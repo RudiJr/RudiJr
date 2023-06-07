@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/RudiJr">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudiJr&theme=aura"/>
+   <img width="100%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudiJr&theme=material-palenight"/>
 </div>
  <br>
 <div align="center" >
@@ -17,7 +17,6 @@
 * **Living in**: Guarulhos - SP, Brazil
 * **Graduated on I.T Management** 
 * **Student of front-end development, looking for the first job opportunity.** 
-* **Currently studying React and Typescript.** 
 
 ###  Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,css,html,bootstrap&theme=dark)](https://skillicons.dev)
