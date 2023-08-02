@@ -16,7 +16,7 @@
 
 * **Living in**: São Paulo - SP, Brazil
 * **Graduated on I.T Management** 
-* **Student of front-end development, looking for the first job opportunity.** 
+* **Student of front-end development.** 
 
 ###  Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,css,html,bootstrap&theme=dark)](https://skillicons.dev)
