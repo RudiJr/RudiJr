@@ -15,7 +15,7 @@
 ### Detailed information
 
 * **Living in**: São Paulo - SP, Brazil
-* **Graduated on I.T Management** 
+* **Graduated in I.T Management** 
 * **Student of front-end development.** 
 
 ###  Skills:
