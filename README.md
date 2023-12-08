@@ -19,6 +19,6 @@
 * **Student of front-end development.** 
 
 ###  Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,css,html,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,css,html,bootstrap&theme=dark)](https://skillicons.dev)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:40e0d0,70:4b0082&section=footer)
